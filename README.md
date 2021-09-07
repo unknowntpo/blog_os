@@ -1,2 +1,3 @@
-# blog_os
-Following the tutorial of https://os.phil-opp.com.
+#Blog OS
+
+Following the tutorial of [Writing an OS in Rust](https://os.phil-opp.com/).
