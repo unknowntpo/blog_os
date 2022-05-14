@@ -1,4 +1,4 @@
-#![no_std]
+#![no_std] // don't link the Rust std lib
 #![no_main]
 
 use core::panic::PanicInfo;
